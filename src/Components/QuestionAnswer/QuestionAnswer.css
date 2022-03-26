@@ -1,0 +1,28 @@
+.bonus {
+    padding: 10px;
+    margin: 5px;
+    
+
+}
+.bonusPart {
+    margin-top: 50px;
+    color: seagreen;
+    font-weight: bold;
+
+}
+.bonus1{
+    border: 1px solid rgb(24, 212, 150) ;
+    border-radius: 5px;
+    background-color: aliceblue;
+    margin: 10px;
+    padding: 10px;
+}
+.bonus2{
+    border: 1px solid rgb(24, 212, 150) ;
+    border-radius: 5px;
+    background-color: aliceblue;
+    margin: 10px;
+    padding: 10px;
+
+
+}

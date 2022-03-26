@@ -11,9 +11,10 @@ const Cart = (props) => {
             {
                 carts.map(cart => <SingleCart key={cart.id} cart={cart}></SingleCart>)
             }
-            <button onClick={handleDelete} className='btn btn-primary my-3'>Delete All</button>
+            <button onClick={handleDelete}>Delete All</button>
             <br />
-            <button onClick={handleSelect} className='btn btn-primary'>Select One</button>
+            <br />
+            <button onClick={handleSelect}>Select One</button>
         </div>
     );
 };

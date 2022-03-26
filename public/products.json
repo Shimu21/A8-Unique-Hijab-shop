@@ -1,74 +1,65 @@
 [
     {
         "id": "1",
-        "name": "pearl studs hiajb",
-        "image": "https://m.media-amazon.com/images/I/51lYvR6CgJL._AC_UL480_FMwebp_QL65_.jpg",
-        "price": "500",
-        "material": "cotton",
-        "ratings": "9"
+        "name": "Cheque Hijab",
+        "image": "https://m.media-amazon.com/images/I/61seEf1tJbL._AC_UL480_QL65_.jpg",
+        "price": "600",
+        "material": "Silk"
     },
     {
         "id": "2",
-        "name": "hiajb",
-        "image": "https://m.media-amazon.com/images/I/61f7VGkkU4L._AC_UL480_QL65_.jpg",
+        "name": "Pearl Hijab",
+        "image": "https://m.media-amazon.com/images/I/51lYvR6CgJL._AC_UL480_FMwebp_QL65_.jpg",
         "price": "500",
-        "material": "silk",
-        "ratings": "9"
+        "material": "Cotton"
     },
     {
         "id": "3",
-        "name": "hiajb",
-        "image": "https://m.media-amazon.com/images/I/71rIpkjPZLL._AC_UL480_QL65_.jpg",
-        "price": "500",
-        "material": "silk",
-        "ratings": "9"
+        "name": "Exclusive Hijab",
+        "image": "https://m.media-amazon.com/images/I/717+Pvyk11L._AC_UL480_QL65_.jpg",
+        "price": "400",
+        "material": "Silk"
     },
     {
         "id": "4",
-        "name": "hiajb",
-        "image": "https://m.media-amazon.com/images/I/61seEf1tJbL._AC_UL480_QL65_.jpg",
+        "name": "Printed Hijab",
+        "image": "https://m.media-amazon.com/images/I/719UzbCnQ3L._AC_UL480_QL65_.jpg",
         "price": "500",
-        "material": "silk",
-        "ratings": "9"
+        "material": "Cotton"
     },
     {
         "id": "5",
-        "name": "hiajb",
-        "image": "https://m.media-amazon.com/images/I/61RezGSA9-L._AC_UL480_QL65_.jpg",
-        "price": "500",
-        "material": "silk",
-        "ratings": "9"
+        "name": "Viscos Hijab",
+        "image": "https://m.media-amazon.com/images/I/41wT66IZNcL._AC_UL480_QL65_.jpg",
+        "price": "700",
+        "material": "Viscos"
     },
     {
         "id": "6",
-        "name": "hiajb",
-        "image": "https://m.media-amazon.com/images/I/717+Pvyk11L._AC_UL480_QL65_.jpg",
+        "name": "Samu Silk Hijab",
+        "image": "https://m.media-amazon.com/images/I/61mrXIw3fRL._AC_UL480_QL65_.jpg",
         "price": "500",
-        "material": "silk",
-        "ratings": "9"
+        "material": "Silk"
     },
     {
         "id": "7",
-        "name": "hiajb",
-        "image": "https://m.media-amazon.com/images/I/719UzbCnQ3L._AC_UL480_QL65_.jpg",
-        "price": "500",
-        "material": "silk",
-        "ratings": "9"
+        "name": "Ready Hijab",
+        "image": "https://m.media-amazon.com/images/I/61f7VGkkU4L._AC_UL480_QL65_.jpg",
+        "price": "600",
+        "material": "Silk"
     },
     {
         "id": "8",
-        "name": "hiajb",
-        "image": "https://m.media-amazon.com/images/I/41wT66IZNcL._AC_UL480_QL65_.jpg",
-        "price": "500",
-        "material": "silk",
-        "ratings": "9"
+        "name": "Laice Hijab",
+        "image": "https://m.media-amazon.com/images/I/71rIpkjPZLL._AC_UL480_QL65_.jpg",
+        "price": "800",
+        "material": "Mixed"
     },
     {
         "id": "9",
-        "name": "hiajb",
-        "image": "https://m.media-amazon.com/images/I/61mrXIw3fRL._AC_UL480_QL65_.jpg",
-        "price": "500",
-        "material": "silk",
-        "ratings": "9"
+        "name": "Cheque Blue Hijab",
+        "image": "https://m.media-amazon.com/images/I/61RezGSA9-L._AC_UL480_QL65_.jpg",
+        "price": "600",
+        "material": "Silk"
     }
 ]
