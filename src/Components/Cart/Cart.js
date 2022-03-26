@@ -1,10 +1,19 @@
 import React from 'react';
+import SingleCart from '../SingleCart/SingleCart';
+import './Cart.css';
 
 const Cart = (props) => {
-    console.log(props.cart);
+    const { carts, handleDelete, handleSelect } = props;
     return (
-        <div>
-            <h2>{props.cart.name}</h2>
+        <div className='main-cart shadow'>
+            <h2>product summary</h2>
+            <hr />
+            {
+                carts.map(cart => <SingleCart key={cart.id} cart={cart}></SingleCart>)
+            }
+            <button onClick={handleDelete} className='btn btn-primary my-3'>Delete All</button>
+            <br />
+            <button onClick={handleSelect} className='btn btn-primary'>Select One</button>
         </div>
     );
 };

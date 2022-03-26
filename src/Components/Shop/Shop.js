@@ -17,6 +17,18 @@ const Shop = () => {
         const selected = [...carts, pd];
         setCarts(selected);
     }
+
+    const handleDelete = () => {
+        setCarts([]);
+    }
+    const handleSelect = () => {
+        for (let i = 0; i < carts.length; i++) {
+            const selectOne = [carts[Math.floor(Math.random() * carts.length)]];
+            setCarts(selectOne);
+        }
+
+    }
+
     return (
         <div className='shop-container'>
 
@@ -27,9 +39,7 @@ const Shop = () => {
             </div>
 
             <div className='shopping-cart'>
-                {
-                    carts.map(cart => <Cart key={cart.id} cart={cart}></Cart>)
-                }
+                <Cart handleSelect={handleSelect} handleDelete={handleDelete} carts={carts}></Cart>
             </div>
         </div>
     );
