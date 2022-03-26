@@ -1,4 +1,4 @@
-# Unique Shop
+# Unique Hijab Shop
 
-live link [Unique Shp](https://github.com/facebook/create-react-app).
+live link [Unique Hijab Shop](https://singular-crisp-0d0dcb.netlify.app).
 
