@@ -11,7 +11,12 @@ const QuestionAnswer = () => {
             <div className='bonus'>
                 <div className='bonus1'>
                     <h6>Question no.1: How React works? </h6>
-                    <h6>Answer: </h6>
+                    <h6>Answer: React is a declarative, efficient, flexible javascripts library. It helps for building
+                        user interfaces.  It has four ways to identify the types of Components.
+                        Components are used to display data in the UI which we want to see. When our data changes,
+                        react will re-render and update our compopnents. In summary, we can say react is a very
+                        needful javascript library to build interactive website.
+                    </h6>
                 </div>
 
                 <div className='bonus2'>
@@ -19,19 +24,21 @@ const QuestionAnswer = () => {
                     <h6>Answer: Differences between props and state are shown below:</h6>
                     <div class="container d-flex mt-3">
                         <div class="mx-auto">
-                            Local Storage
+                            Props
                             <ul>
-                                <li>Data is stored even page session ends</li>
-                                <li>It saves data for long term</li>
-                                <li>It allows to set value and store even after the tab closed</li>
+                                <li>Property is called props.</li>
+                                <li>Props are used to pass data from
+                                    one component to another.
+                                </li>
+                                <li>Props are external.</li>
                             </ul>
                         </div>
                         <div class="mx-auto">
-                            Session Storage
+                            State
                             <ul>
-                                <li>Data is cleared when page session ends</li>
-                                <li>It keeps data temporarily</li>
-                                <li>It doesn't show value after session ends</li>
+                                <li>State is somethhing that could change.</li>
+                                <li>State is a local data storage that can not be passed to other components.</li>
+                                <li>State is internal.</li>
                             </ul>
                         </div>
                     </div>
