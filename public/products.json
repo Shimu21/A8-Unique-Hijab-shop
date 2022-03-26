@@ -1,56 +1,74 @@
 [
     {
         "id": "1",
-        "name": "hiajb",
-        "image": "https://www.amazon.com/Urban-Lipi-fringed-cotton-foulard/dp/B07FB1H4F9/ref=sr_1_44?crid=3N4M607823SDJ&keywords=hijab&qid=1648240426&sprefix=hijab%2Caps%2C327&sr=8-44",
-        "price": "500"
+        "name": "pearl studs hiajb",
+        "image": "https://m.media-amazon.com/images/I/51lYvR6CgJL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": "500",
+        "material": "cotton",
+        "ratings": "9"
     },
     {
         "id": "2",
         "name": "hiajb",
-        "image": "https://www.amazon.com/Urban-Lipi-fringed-cotton-foulard/dp/B07FB1H4F9/ref=sr_1_44?crid=3N4M607823SDJ&keywords=hijab&qid=1648240426&sprefix=hijab%2Caps%2C327&sr=8-44",
-        "price": "500"
+        "image": "https://m.media-amazon.com/images/I/61f7VGkkU4L._AC_UL480_QL65_.jpg",
+        "price": "500",
+        "material": "silk",
+        "ratings": "9"
     },
     {
         "id": "3",
         "name": "hiajb",
-        "image": "https://www.amazon.com/Urban-Lipi-fringed-cotton-foulard/dp/B07FB1H4F9/ref=sr_1_44?crid=3N4M607823SDJ&keywords=hijab&qid=1648240426&sprefix=hijab%2Caps%2C327&sr=8-44",
-        "price": "500"
+        "image": "https://m.media-amazon.com/images/I/71rIpkjPZLL._AC_UL480_QL65_.jpg",
+        "price": "500",
+        "material": "silk",
+        "ratings": "9"
     },
     {
         "id": "4",
         "name": "hiajb",
-        "image": "https://www.amazon.com/Urban-Lipi-fringed-cotton-foulard/dp/B07FB1H4F9/ref=sr_1_44?crid=3N4M607823SDJ&keywords=hijab&qid=1648240426&sprefix=hijab%2Caps%2C327&sr=8-44",
-        "price": "500"
+        "image": "https://m.media-amazon.com/images/I/61seEf1tJbL._AC_UL480_QL65_.jpg",
+        "price": "500",
+        "material": "silk",
+        "ratings": "9"
     },
     {
         "id": "5",
         "name": "hiajb",
-        "image": "https://www.amazon.com/Urban-Lipi-fringed-cotton-foulard/dp/B07FB1H4F9/ref=sr_1_44?crid=3N4M607823SDJ&keywords=hijab&qid=1648240426&sprefix=hijab%2Caps%2C327&sr=8-44",
-        "price": "500"
+        "image": "https://m.media-amazon.com/images/I/61RezGSA9-L._AC_UL480_QL65_.jpg",
+        "price": "500",
+        "material": "silk",
+        "ratings": "9"
     },
     {
         "id": "6",
         "name": "hiajb",
-        "image": "https://www.amazon.com/Urban-Lipi-fringed-cotton-foulard/dp/B07FB1H4F9/ref=sr_1_44?crid=3N4M607823SDJ&keywords=hijab&qid=1648240426&sprefix=hijab%2Caps%2C327&sr=8-44",
-        "price": "500"
+        "image": "https://m.media-amazon.com/images/I/717+Pvyk11L._AC_UL480_QL65_.jpg",
+        "price": "500",
+        "material": "silk",
+        "ratings": "9"
     },
     {
         "id": "7",
         "name": "hiajb",
-        "image": "https://www.amazon.com/Urban-Lipi-fringed-cotton-foulard/dp/B07FB1H4F9/ref=sr_1_44?crid=3N4M607823SDJ&keywords=hijab&qid=1648240426&sprefix=hijab%2Caps%2C327&sr=8-44",
-        "price": "500"
+        "image": "https://m.media-amazon.com/images/I/719UzbCnQ3L._AC_UL480_QL65_.jpg",
+        "price": "500",
+        "material": "silk",
+        "ratings": "9"
     },
     {
         "id": "8",
         "name": "hiajb",
-        "image": "https://www.amazon.com/Urban-Lipi-fringed-cotton-foulard/dp/B07FB1H4F9/ref=sr_1_44?crid=3N4M607823SDJ&keywords=hijab&qid=1648240426&sprefix=hijab%2Caps%2C327&sr=8-44",
-        "price": "500"
+        "image": "https://m.media-amazon.com/images/I/41wT66IZNcL._AC_UL480_QL65_.jpg",
+        "price": "500",
+        "material": "silk",
+        "ratings": "9"
     },
     {
         "id": "9",
         "name": "hiajb",
-        "image": "https://www.amazon.com/Urban-Lipi-fringed-cotton-foulard/dp/B07FB1H4F9/ref=sr_1_44?crid=3N4M607823SDJ&keywords=hijab&qid=1648240426&sprefix=hijab%2Caps%2C327&sr=8-44",
-        "price": "500"
+        "image": "https://m.media-amazon.com/images/I/61mrXIw3fRL._AC_UL480_QL65_.jpg",
+        "price": "500",
+        "material": "silk",
+        "ratings": "9"
     }
 ]

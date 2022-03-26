@@ -1,0 +1,8 @@
+.shop-container{
+    display: flex;
+    justify-content: space-between;
+}
+.cart-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
